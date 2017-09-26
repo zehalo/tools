@@ -1,0 +1,13 @@
+#This file was generated automatically at 2013-03-19 19:50:34.
+#Please visit http://ubuntu9.com for more infomation.
+
+deb http://deis-mirrors.isec.pt/ubuntu lucid main restricted universe multiverse
+deb-src http://deis-mirrors.isec.pt/ubuntu lucid main restricted universe multiverse
+deb http://deis-mirrors.isec.pt/ubuntu lucid-security main restricted universe multiverse
+deb-src http://deis-mirrors.isec.pt/ubuntu lucid-security main restricted universe multiverse
+deb http://deis-mirrors.isec.pt/ubuntu lucid-updates main restricted universe multiverse
+deb-src http://deis-mirrors.isec.pt/ubuntu lucid-updates main restricted universe multiverse
+deb http://deis-mirrors.isec.pt/ubuntu lucid-proposed main restricted universe multiverse
+deb-src http://deis-mirrors.isec.pt/ubuntu lucid-proposed main restricted universe multiverse
+deb http://deis-mirrors.isec.pt/ubuntu lucid-backports main restricted universe multiverse
+deb-src http://deis-mirrors.isec.pt/ubuntu lucid-backports main restricted universe multiverse
